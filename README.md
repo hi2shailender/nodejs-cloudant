@@ -41,6 +41,8 @@ Notice that your package.json will now reflect this package. Everything is worki
 
     $ node -e 'require("cloudant"); console.log("Cloudant works");'
     Cloudant works
+    $ node server.js //require("cloudant"); console.log("Cloudant works"); Add it to a server.js if above code does't work
+    
 
 ### Getting Started
 
